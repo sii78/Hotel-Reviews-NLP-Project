@@ -11,6 +11,6 @@ This project is done during SDAIA Academy bootcamp of Data Science and AI.
 # About the repository:
 - [Project Proposal](https://github.com/sii78/Hotel-Reviews-NLP-Project/tree/main/Proposal)
 - [Project MVP](https://github.com/sii78/Hotel-Reviews-NLP-Project/tree/main/MVP)
-- [Jupyter Notebooks]()
+- [Jupyter Notebooks](https://github.com/sii78/Hotel-Reviews-NLP-Project/tree/main/Jupyter%20Notebooks)
 - [Final Report]()
 - [Slides Presentation]()
